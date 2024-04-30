@@ -1,8 +1,9 @@
 body{
-    background-color: aqua;
+    background-color: rgb(255, 242, 0);
 }
 
 .title{
     color: blueviolet;
+    font-size: larger;
     margin-left: 50%;
 }
